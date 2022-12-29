@@ -24,7 +24,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+    background: #FFFFFF url("../img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("../img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #455A64;
     padding: 40px 40px 40px 40px;
 }
 
@@ -767,15 +767,15 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #03A9F4;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #455A64;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -797,7 +797,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #263238!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -810,19 +810,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("../img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("../img/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("../img/la-chouette-agence-banniere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("../img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
