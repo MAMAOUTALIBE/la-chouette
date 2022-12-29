@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/issues</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/pulls</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/projects?query=is%3Aopen</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/security</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/master/index.html</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/master/page2.html</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/master/style.css</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/releases</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/compare</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799222696</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799132391</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3688610245</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3683440063</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/security/policy</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/security/advisories</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/d9f2a8017825b7e0601e880af8471542f559c22a/index.html</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/find/master</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/d9f2a8017825b7e0601e880af8471542f559c22a/page2.html</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/blob/d9f2a8017825b7e0601e880af8471542f559c22a/style.css</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels?sort=name-asc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels?sort=name-desc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels?sort=count-desc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels?sort=count-asc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/bug</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/documentation</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/duplicate</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/enhancement</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/good%20first%20issue</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/help%20wanted</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/invalid</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/question</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/labels/wontfix</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799222696/jobs/6461547397</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799222696/jobs/6461551750</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799222696/jobs/6461551877</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799222696/usage</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/commit/d9f2a8017825b7e0601e880af8471542f559c22a</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799132391/jobs/6461371715</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799132391/jobs/6461376326</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799132391/jobs/6461376225</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3799132391/usage</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/commit/fee306fb13209ff40b2398475113fa524371f54f</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3688610245/jobs/6243604960</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3688610245/jobs/6243614880</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3688610245/jobs/6243614709</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3688610245/usage</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/commit/35def518f47deceead76e26cca93fec626487910</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3683440063/jobs/6232020352</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3683440063/jobs/6232030268</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3683440063/jobs/6232030471</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/actions/runs/3683440063/usage</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/commit/894aad37a877d62975bfab3e4791fae2c3773a4f</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/find/d9f2a8017825b7e0601e880af8471542f559c22a</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MAMAOUTALIBE/la-chouette/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-29T08:24:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
